@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032718467866",
+    "project_id": "kumluk-82a0c",
+    "storage_bucket": "kumluk-82a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032718467866:android:2ad37c8ee03e9e025362a3",
+        "android_client_info": {
+          "package_name": "com.risetime.kumluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032718467866-m2r8jdje71246d8s2hma5su7vs03pths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2A1bm1e4_FLMt-P_VYICmqXTR834twYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032718467866-m2r8jdje71246d8s2hma5su7vs03pths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
